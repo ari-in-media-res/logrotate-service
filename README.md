@@ -1,2 +1,1 @@
 # logrotate-service
-# logrotate-service
